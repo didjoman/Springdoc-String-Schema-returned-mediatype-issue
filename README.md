@@ -1,0 +1,1 @@
+# Springdoc-String-Schema-returned-mediatype-issue
